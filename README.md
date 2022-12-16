@@ -22,11 +22,6 @@ Step4:
 pip install -r requirements.txt
 ```
 
-Below repo help you to obtain requried credentials
-```
-https://github.com/Big-Data-01/confluent-tutorial.git
-```
-
 
 Cluster Environment Variable
 ```
